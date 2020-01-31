@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rick and Morty API</string>
+    <string name="title_activity_character_detail">CharacterDetailActivity</string>
+</resources>
